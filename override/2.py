@@ -48,3 +48,4 @@ c1 = CalMultiply(10,10)
 print(c1.info())
 c2 = CalDivide(20,10)
 print(c2.info())
+#m.Q
